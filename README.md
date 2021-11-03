@@ -10,7 +10,7 @@ Course | Link to Repo
 TensorFlow: Advanced Techniques Specialization |  [Course Repo] | 
 Natural Language Processing Specialization |  [Course Repo] |
 AI for Medicine Specialization |  [Course Repo] | 
-Practical Data Science Specialization |  [Course Repo] | 
+Practical Data Science Specialization |  [Course Repo](https://github.com/vidush5/Coursera-Courses/tree/main/Practical%20Data%20Science%20Specialization) | 
 Machine Learning Engineering for Production (MLOps) Specialization |  [Course Repo] | 
 TensorFlow: Data and Deployment Specialization  |  [Course Repo]| 
 Generative Adversarial Networks (GANs) Specialization  |  [Course Repo]| 
