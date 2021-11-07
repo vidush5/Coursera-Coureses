@@ -1,6 +1,8 @@
 # Practical Data Science Specialization
 
-![alt text](Specialization-Logo.jpeg)
+<p align="center">
+  <img width="400" height="400" src="Specialization-Logo.jpeg">
+</p>
 
 This course mainly focused on developing data science projects in cloud using Amazon SageMaker.
 
