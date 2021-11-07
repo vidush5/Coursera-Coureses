@@ -1,42 +1,19 @@
-Important DBMS & SQL Query Topics For Data Engineering Interview
+# Practical Data Science Specialization
 
-Basic-Medium
+![alt text](Specialization-Logo.jpeg)
 
-1. Relations, Schema Design, E-R Diagrams
-2. Primary Key, Foriegn Key, Composite Key, Surrogate Key
-3. Normalization & Denormalization
-4. ACID Properties
-5. Transactions
-6. Transaction Concurrency
-7. Concurrency Control
-8. Indexing
-9. Types of Indexing
-10. DDL, DML, DCL
-11. Integrity Constraints
-12. Difference between Delete & Truncate?
-13. Which one is faster count(*) or count(1)?
-14. All type of joins
-15. Queries related to SELF JOIN
-16. What is NULL SAFE Join
-17. Queries related to Group By & Having clause
-18. Use of Where clause along with Group by
-19. CASE-WHEN statement
-20. Group by aggregation with CASE-WHEN statement
-21. Use of WITH Clause
-22. Difference between any, all & exists
-23. Difference between Union & Union All
+This course mainly focused on developing data science projects in cloud using Amazon SageMaker.
 
-Advance 
+### Machine Learning WorkFlow
+![alt text](ML_WorkFlow.png)
 
-1. Difference between Views & Materialized Views
-2. When to use Stored procedures & how can we create dynamic Stored procedures
-3. Queries related to Window Functions
-   - Difference between Rank(), Row_Number(), Dense_Rank()
-   - Over clause with Partition By & Order By
-   - Aggregation in Window functions like Sum(), AVG(), MIN()
-     MAX(), FIRST_VALUES(), LAST_VALUE()
-   - Use of LAG() window function
-   - Queries for running SUM/AVG etc in Window functions
-      -> Rows Between
-      -> Unbounded preceding
+
+01. Prepare data, detect statistical data biases, perform feature engineering at scale to train models, & train, evaluate, & tune models with AutoML.
+02. Store & manage ML features using a feature store, & debug, profile, tune, & evaluate models while tracking data lineage and model artifacts.
+03. Build, deploy, monitor, & operationalize end-to-end machine learning pipelines.
+04. Build data labeling and human-in-the-loop pipelines to improve model performance with human intelligence.
+
+
+### Automated Machine Learning 
+![alt text](Automated_ML.png)
 
