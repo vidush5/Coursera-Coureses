@@ -10,6 +10,7 @@ Course | Link to Repo
 Applied Data Science with Python Specialization | [Course Repo](https://github.com/vidush5/Coursera-Courses/tree/main/Applied%20Data%20Science%20with%20Python%20Specialization)
 TensorFlow: Advanced Techniques Specialization |  [Course Repo](https://github.com/vidush5/Coursera-Courses/tree/main/TensorFlow:%20Advanced%20Techniques%20Specialization)| 
 Practical Data Science Specialization |  [Course Repo](https://github.com/vidush5/Coursera-Courses/tree/main/Practical%20Data%20Science%20Specialization) | 
+AWS Fundamentals Specialization | [Course Repo](https://github.com/vidush5/Coursera-Courses/tree/main/AWS%20Fundamentals%20Specialization)
 Natural Language Processing Specialization |  [Course Repo] |
 AI for Medicine Specialization |  [Course Repo] | 
 Machine Learning Engineering for Production (MLOps) Specialization |  [Course Repo] | 
